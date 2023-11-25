@@ -10,3 +10,15 @@ body {
 }
 
 ```
+
+# Cores do site
+
+Para definir a cor de fundo é <strong>background-color</strong> ou simplesmente <strong>background</strong>. E para definir a cor das letras, o comando é <strong>color</strong>
+
+```
+body {
+  background: yellow;
+  color: white;
+}
+
+```
