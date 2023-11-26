@@ -22,3 +22,14 @@ body {
 }
 
 ```
+
+
+# FONTES
+
+Para definir o tamanho da fonte é <strong>font-size</strong>
+
+```
+
+font-size: 3em;
+
+```
