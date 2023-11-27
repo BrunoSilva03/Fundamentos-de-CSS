@@ -33,3 +33,11 @@ Para definir o tamanho da fonte é <strong>font-size</strong>
 font-size: 3em;
 
 ```
+
+Para definir o tipo da fonte é <strong>font-family</strong>
+
+```
+font-family: Arial, Helvetica, Sans...
+```
+
+
