@@ -40,4 +40,12 @@ Para definir o tipo da fonte é <strong>font-family</strong>
 font-family: Arial, Helvetica, Sans...
 ```
 
+Para definir a grossura da fonte é <strong>font-weight</strong>.
+
+```
+font-weight: normal;
+font-weight: bold;
+font-weight: bolder;
+```
+
 
