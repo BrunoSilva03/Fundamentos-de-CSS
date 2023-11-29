@@ -46,6 +46,11 @@ Para definir a grossura da fonte é <strong>font-weight</strong>.
 font-weight: normal;
 font-weight: bold;
 font-weight: bolder;
+
+OU
+
+
+font-weight: 9em por exemplo.
 ```
 
 
