@@ -53,4 +53,6 @@ OU
 font-weight: 9em por exemplo.
 ```
 
+Para definir o estilo da fonte é <strong>font-style</strong>
+
 
